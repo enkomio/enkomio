@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you find my tool useful, please consider to <a href="https://github.com/sponsors/enkomio">Sponsor me<a/>.
+If you find my tools useful, please consider to <a href="https://github.com/sponsors/enkomio">Sponsor me<a/>.
 
 <!--
 **enkomio/enkomio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
